@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Moin");
         System.out.println("model created");
         System.out.println("Login");
+        System.out.println("Logout");
 
 
 
